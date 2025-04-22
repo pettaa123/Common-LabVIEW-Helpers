@@ -14,9 +14,11 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Tests" Type="Folder">
+			<Item Name="Test File Exists.lvclass" Type="LVClass" URL="../Tests/Test File Exists/Test File Exists.lvclass"/>
 			<Item Name="Test Strict Find Items as LV Type.lvclass" Type="LVClass" URL="../Tests/Test Strict Find Items as LV Type/Test Strict Find Items as LV Type.lvclass"/>
 		</Item>
 		<Item Name="Common Helpers.lvlib" Type="Library" URL="../Source/Common Helpers.lvlib"/>
+		<Item Name="Error Helpers.lvlib" Type="Library" URL="../Source/Error Helpers.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
