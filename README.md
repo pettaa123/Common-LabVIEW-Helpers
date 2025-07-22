@@ -10,5 +10,8 @@
 3. **Get Timestamp ms**  
    Utilizes the `Tick Count` feature of .NET Stopwatch to calculate system 
 
-3. **Insert VI into Subpanel**  
+3. **Parse Error Code from VI Name**  
+   Utilizes `Call Stack` to parse error code from --error sub-vis. 
+
+4. **Insert VI into Subpanel**  
    Closes FP of VI upon insertion
