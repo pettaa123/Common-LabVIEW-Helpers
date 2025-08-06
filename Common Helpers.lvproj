@@ -19,7 +19,7 @@
 		</Item>
 		<Item Name="Common Helpers.lvlib" Type="Library" URL="../Source/Common Helpers.lvlib"/>
 		<Item Name="Error Helpers.lvlib" Type="Library" URL="../Source/Error Helpers.lvlib"/>
-		<Item Name="Test Insert VI into SubPanel.lvclass" Type="LVClass" URL="../Test Insert VI into SubPanel/Test Insert VI into SubPanel.lvclass"/>
+		<Item Name="Test Insert VI into SubPanel.lvclass" Type="LVClass" URL="../Tests/Test Insert VI into SubPanel/Test Insert VI into SubPanel.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
