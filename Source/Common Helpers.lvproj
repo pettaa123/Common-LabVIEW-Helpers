@@ -20,6 +20,8 @@
 		</Item>
 		<Item Name="Common Helpers.lvlib" Type="Library" URL="../Common Helpers.lvlib"/>
 		<Item Name="Error Helpers.lvlib" Type="Library" URL="../Error Helpers.lvlib"/>
+		<Item Name="IMAQ Helpers.lvlib" Type="Library" URL="../IMAQ Helpers.lvlib"/>
+		<Item Name="NET based Helpers.lvlib" Type="Library" URL="../NET based Helpers.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
